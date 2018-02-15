@@ -1,4 +1,4 @@
-package com.iesvirgendelcarmen.ejercicios;
+package com.iesvirgendelcarmen.teoria;
 
 import java.time.LocalDate;
 
